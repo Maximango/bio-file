@@ -5,5 +5,9 @@ Greetings, my name is Paul Andrei Jison. I encountered tasks such as data saving
 
 **Sample Code for shop purchasing system**
 ![shop purchase system image](/shop_system.PNG)
-I developed this game independently. This file, I believe, will serve as a good testament to my abilities. Also, it’s worth mentioning that I created this game a few months ago, and since then, my experience has substantially increased.
-**Please note that the game file is attached to this repository**
+
+**Sample Code for Data Storing**
+![data storing image](/data_store.PNG)
+
+I developed my Plant game independently. This game, I believe, will serve as a good testament to my abilities. Also, it’s worth mentioning that I finished this game a few months ago, and since then, my experience has substantially increased. I’m currently working on a game about a desert as a side project. It’s not intended for publication, but rather for educational purposes. If you’re interested, feel free to take a look at my code.
+**Please note that the game files are attached to this repository**
